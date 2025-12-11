@@ -41,16 +41,12 @@ htmlcov/
 bin/
 libs/
 
-# --- Projenize Özel Kurallar (Lütfen Gözden Geçirin) ---
 
-# Bu klasörler, otomatik oluşturulmuş varlıklar veya arayüz dosyaları
-# içeriyor olabilir. Eğer sizin yazdığınız kaynak kodları içeriyorsa,
-# bu satırları silerek Git'e eklemelisiniz./
+
+
 /algomind/UI/
 
-# Aşağıdaki dosyaların versiyon kontrolünde (Git'te) TUTULMASI genellikle
-# tavsiye edilir. Projenizin yapılandırmasını ve ana dosyalarını içerirler.
-# Bu dosyaları Git'e eklemek için aşağıdaki satırları silmeyi düşünebilirsiniz.
+
 /buildozer.spec
 /.python-version
 /main.py
